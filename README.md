@@ -1,17 +1,21 @@
-# Raya<!DOCTYPE html>
+# Raya<!Düfte>
 <html lang="ar" dir="rtl">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>عطور راية Raya</title>
   <style>
-    body {
-      font-family: 'Cairo', sans-serif;
-      background: linear-gradient(to bottom, #faf4ee, #fdfdfd);
-      color: #2c2c2c;
-      margin: 0;
-      padding: 0;
-    }
+    
+    }body {
+  font-family: 'Cairo', sans-serif;
+  background-image: url('background.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
     header {
       background-color: #8B4513;
       color: white;
